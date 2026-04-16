@@ -1,0 +1,59 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="SMVAg5kpkbqGP-0k6VvI">
+    <mxGraphModel dx="1013" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xsylxTpF58eASXV04OLe-3" edge="1" parent="1" source="xsylxTpF58eASXV04OLe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xsylxTpF58eASXV04OLe-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="START" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-5" edge="1" parent="1" source="xsylxTpF58eASXV04OLe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xsylxTpF58eASXV04OLe-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="ENTER&amp;nbsp; N" vertex="1">
+          <mxGeometry height="60" width="280" x="260" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-7" edge="1" parent="1" source="xsylxTpF58eASXV04OLe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xsylxTpF58eASXV04OLe-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-9" edge="1" parent="1" source="xsylxTpF58eASXV04OLe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xsylxTpF58eASXV04OLe-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="IS N == O" vertex="1">
+          <mxGeometry height="130" width="170" x="315" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-26" edge="1" parent="1" source="xsylxTpF58eASXV04OLe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="650" />
+            </Array>
+            <mxPoint x="400" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="RETURN 1" vertex="1">
+          <mxGeometry height="60" width="230" x="540" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-11" edge="1" parent="1" source="xsylxTpF58eASXV04OLe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xsylxTpF58eASXV04OLe-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-8" parent="1" style="whiteSpace=wrap;html=1;" value="FACTORIAL(N) = N * FACTORIAL(N-1)" vertex="1">
+          <mxGeometry height="60" width="300" x="249" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-23" edge="1" parent="1" source="xsylxTpF58eASXV04OLe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="DISPLAY FACTORIAL" vertex="1">
+          <mxGeometry height="60" width="300" x="250" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="xsylxTpF58eASXV04OLe-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="STOP" vertex="1">
+          <mxGeometry height="70" width="120" x="350" y="670" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
